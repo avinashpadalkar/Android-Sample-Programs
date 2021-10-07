@@ -23,6 +23,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
 
     private Utils utils;
+
     Context context;
     private EditText editTextLoginEmail;
     private EditText editTextLoginPassword;
